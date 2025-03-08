@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="whole">
+        <aside class="sidebar">
+            <div class="details">
+                <img src="C:\Users\ASUS\Pictures\Photo.jpg" class="photo">
+                <h1>Sreshta Sanda</h1>
+            </div>
+            <div class="contact">
+                <p>KU Student</p>
+                <p>Email:sreshtasanda27@gmail.com</p>
+                <p>Phone:+91 7386813198</p>
+                <p>Location:Hanamkonda,India</p>
+            </div>
+            <div class="skills">
+                <h3><b>Skills</b></h3>
+                <p class="unordered">C language</p>
+                <p class="unordered">Python</p>
+                <p class="unordered">Java</p>
+                <p class="unordered">mysql</p>
+            </div>
+        </aside>
+        <mainsection class="mainsection">
+            <h3 class="headings">Experience</h3>
+            <p class="info"><b>Fresher</b></p>
+            <h3 class="headings">Education</h3>
+            <p class="info"><b>Pursuing B.Tech 2nd year</b><br>CSE branch<br><i>2023-27</i></p>               
+            <h3 class="headings">Projects</h3>
+            <p class="info"><b>Portfolio Website</b><br>Built a personal portfolio using HTML and CSS</p>
+        </mainsection>
+    </div>
+</body>
+</html>
